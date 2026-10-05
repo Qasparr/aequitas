@@ -20,9 +20,9 @@ from fpdf import FPDF
 
 import os
 _HERE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(_HERE, "The-Symmetric-Credit-Union-Proposal.md")
-OUT = os.path.join(_HERE, "The-Symmetric-Credit-Union-Proposal.pdf")
-TITLE = "A Proposal for the Symmetric Credit Union"
+SRC = os.path.join(_HERE, "Aequitas-Proposal.md")
+OUT = os.path.join(_HERE, "Aequitas-Proposal.pdf")
+TITLE = "Aequitas — A Proposal for the Symmetric Credit Union"
 
 SERIF = "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
 SERIF_B = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"

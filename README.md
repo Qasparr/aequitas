@@ -1,15 +1,18 @@
-# The Symmetric Credit Union — a proposal
+# AEQUITAS — a proposal for the symmetric credit union
 
-A proposal for a bank or credit union that pays its depositors — on
-savings and checking alike — the same interest it charges its borrowers.
-The ground: a bank deposit is, at law, a loan to the bank (the bank
-becomes the depositor's debtor), so the price of money should not change
-with the direction it travels.
+A credit union that pays its depositors — on savings and checking alike —
+the same interest it charges its borrowers. The ground: a bank deposit is,
+at law, a loan to the bank (the bank becomes the depositor's debtor), so
+the price of money should not change with the direction it travels.
+
+*Aequitas* — Latin for fairness, equity, honest measure.
 
 ## Contents
 
-- `The-Symmetric-Credit-Union-Proposal.md` — the proposal
-- `The-Symmetric-Credit-Union-Proposal.pdf` — the same, as a PDF
+- `Aequitas-Proposal.md` — the proposal
+- `Aequitas-Proposal.pdf` — the same, as a PDF
+- `aequitas-logo.svg` — the mark: the scales held level (silhouette vector,
+  one color, transparent ground)
 - `build-symmetric-bank-pdf.py` — the script that builds the PDF from the
   Markdown (requires Python 3 and fpdf2)
 

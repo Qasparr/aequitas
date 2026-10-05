@@ -1,6 +1,6 @@
-# A PROPOSAL FOR THE SYMMETRIC CREDIT UNION
+# AEQUITAS
 
-## Equal Interest on Deposits and Loans — For the Deposit Is Already a Loan
+## A Proposal for the Symmetric Credit Union — Equal Interest on Deposits and Loans, For the Deposit Is Already a Loan
 
 **Authorship:** Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure
 **Date:** 2026-10-05 (Monday)
@@ -155,8 +155,9 @@ members must see the number to know it is zero.
 
 ## V. THE PROPOSAL PROPER: DRAFT CHARTER OF THE SYMMETRIC CREDIT UNION
 
-*Working name — the author's red pen rules. What follows is a charter
-sketch: the load-bearing walls, not the finished building.*
+*The name is given: **AEQUITAS** — named by the author's ruling, 2026-10-05.
+What follows is a charter sketch: the load-bearing walls, not the finished
+building.*
 
 **Article 1 — Ownership.** Every depositor is a member-owner. One member,
 one vote. There are no outside shareholders, because an outside
@@ -208,8 +209,8 @@ The scribe does not rule; the author does. Held open for John's pen:
 2. **Dues-funded, or dividend-only?** Article 3 funds operations with dues.
    The alternative: no dues, operations funded solely from the permitted
    adjustments, dividends doing the rest. Cleaner — but thinner armor.
-3. **The name.** "The Symmetric Credit Union" is a working title. The
-   institution's true name is the author's to give.
+3. **The name.** — *Answered 2026-10-05: **AEQUITAS**.* The institution's
+   true name is given above; the red pen has ruled.
 4. **Charter jurisdiction.** Federal credit union charter (NCUA) is the
    natural vehicle — member-owned, not-for-profit, existing law.⁵ State
    charter is the alternative. The lawyers' lane, when it comes.
